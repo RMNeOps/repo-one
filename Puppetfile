@@ -13,7 +13,3 @@ mod 'java',
 mod 'jenkins',
   :git => 'https://github.com/RMNeOps/puppet-jenkins.git',
   :ref => 'ad341c3068cc713898ee58c5c0a6a7bc1715c1c9'
-
-mod 'zypprepo',
-  :git => 'https://github.com/RMNeOps/puppet-zypprepo.git',
-  :ref => '423398a34eb76658b9bc8e6237e2b0a256e2240f'
